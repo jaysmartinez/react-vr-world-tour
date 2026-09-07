@@ -1,4 +1,4 @@
-# World Tour
+# React VR World Tour
 
 World Tour is an experimental virtual-reality web experience built with React VR and Three.js. It explores immersive navigation and 3D presentation in the browser.
 
@@ -13,8 +13,8 @@ World Tour is an experimental virtual-reality web experience built with React VR
 ## Getting Started
 
 ```bash
-git clone https://github.com/jaysmartinez/world_tour.git
-cd world_tour
+git clone https://github.com/jaysmartinez/react-vr-world-tour.git
+cd react-vr-world-tour
 npm install
 npm start
 ```
